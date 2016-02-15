@@ -1,0 +1,17 @@
+{
+  "name": "telerobot-node",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node telerobot.js"
+  },
+  "dependencies": {
+    "mocha": "~2.4.5",
+    "should": "~8.2.2",
+    "ejs" : "2.4.1",
+    "express" : "4.13.4",
+    "dnode" : "1.2.2",
+    "body-parser" : "1.15.0",
+    "numbro" : "1.6.2"
+  }
+}
